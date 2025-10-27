@@ -35,9 +35,7 @@ class Lab2{
 		person.set_lastname("Mallick");
 		string=person.get_lastname();
 		System.out.println(string);
-		System.out.println("hsherfaheem2");
 	}
 }
-
 
 
