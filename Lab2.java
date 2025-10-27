@@ -37,5 +37,6 @@ class Lab2{
 		System.out.println(string);
 	}
 }
+System.out.println("hasherfaheem2")
 
 
